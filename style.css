@@ -1,0 +1,25 @@
+H1,
+H2,
+H3 {
+    background-color: red;
+    color: black;
+}
+
+.links {
+    background-color: red;
+}
+
+a {
+    background-color: pink;
+    color: black;
+}
+
+p {
+    background-color: pink;
+}
+
+.pizza,
+.pasta,
+.steak {
+    background-color: pink;
+}
